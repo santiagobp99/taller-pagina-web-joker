@@ -1,24 +1,29 @@
-h1, h2 {
-  font-family: Lato;
-}
-
  body {
   background-color: rgb(58, 194, 17);
+  color:white;
+  font-family: times;
   }
-
+h2 {
+  text-align: center;
+}
 div.descripcion{
   background-color:orange;
   color:black;
   text-align:justify;
   font-weight: bold;
+   
 }
 
-div.protagonistas{
+div.fichaTecnica{
+  background-color:darkred;
   color :rgb(45, 144, 224);
   font-size: 13px;
+  font-family: tahoma;
 }
-
-ul.protagonistas{
-  color :aliceblue;
+ul {
+  list-style-type:square;
+}
+ul.fichaTecnica{
+  color:white;
   font-size: 12px;
 }
