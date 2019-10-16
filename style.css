@@ -32,3 +32,9 @@ ul.fichaTecnica{
   color:white;
   font-size: 12px;
 }
+div.copyright{
+  background-color:white;
+  color :black;
+  font-size: 13px;
+  font-family: tahoma;
+}
